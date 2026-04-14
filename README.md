@@ -21,19 +21,15 @@ This project explores Spotify music data to uncover patterns in song popularity 
 - Tableau Public – Data visualization & dashboard creation
 - Dataset – Spotify tracks dataset (audio features & metadata)
 
-📷 [Dashboard Preview]()
+📷 [Dashboard Preview](https://github.com/Chaithra-Shree-B/Spotify-Music-Insights/blob/main/Spotify%20Dashboard.png)
 
 🔗 [Live Dashboard](https://public.tableau.com/app/profile/chaithra.shree.b/viz/SpotifyMusicInsights_17688967867360/Dashboard1)
 
-📂 Project Structure
-📁 Spotify-Music-Insights-Dashboard
-│-- 📊 Dashboard.twbx
-│-- 📄 README.md
-│-- 🖼️ thumbnail.png
 💡 Future Enhancements
-Add genre-wise analysis
-Incorporate artist-level insights
-Build predictive model for song popularity
+- Add genre-wise analysis
+- Incorporate artist-level insights
+- Build predictive model for song popularity
+
 🙌 Conclusion
 
 This project demonstrates how data visualization can transform raw music data into meaningful insights, helping understand trends, listener behavior, and the factors behind popular songs.
